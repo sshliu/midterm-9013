@@ -71,6 +71,9 @@ nav a:focus {
     text-align: center;
     text-decoration: none;
 }
+img {
+    float: left;
+}
 .col img {
     opacity: 0.6;
 }
@@ -313,6 +316,9 @@ footer li a:active {
         max-width: 100%;
         background-color: azure;
     }
+    img {
+        margin: 10px;
+    }
     footer {
         width: 90%;
         margin: 0 auto;
@@ -401,6 +407,9 @@ footer li a:active {
         height: auto;
         max-width: 100%;
         background-color: azure;
+    }
+    img {
+        margin: 10px;
     }
     footer {
         width: 100%;
@@ -540,6 +549,9 @@ footer li a:active {
         height: auto;
         max-width: 100%;
         background-color: azure;
+    }
+    img {
+        margin: 10px;
     }
     footer {
         width: 100%;
